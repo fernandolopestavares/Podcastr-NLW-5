@@ -14,7 +14,7 @@ export function Header() {
             <Link href="/" >
                 <img className={styles.logo} src="/logo.svg" alt="Podcastr" />
             </Link>
-            <p>The best for you to hear, always</p>
+            <p>O melhor para você ouvir, sempre</p>
 
             <span> {currentDate}</span>
         </header>
