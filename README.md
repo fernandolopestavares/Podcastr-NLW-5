@@ -42,7 +42,7 @@ yarn api:server
 
 ## :rocket: Technologies
 
-#This project was developed using the following technologies:
+#This project was developed using the following technologies and libraries:
 
 - [React](https://reactjs.org)
 - [Axios](https://github.com/axios/axios)
@@ -51,6 +51,7 @@ yarn api:server
 - [Date-fns](https://date-fns.org/)
 - [RC-Slider](https://slider-react-component.vercel.app/)
 - [Sass](https://sass-lang.com/)
+- [Json Server](https://github.com/typicode/json-server)
 
 ## 🔖 Layout
 
