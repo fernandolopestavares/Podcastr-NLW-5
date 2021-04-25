@@ -8,19 +8,19 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/david/dev/lcspaiva87/RocketShoes?style=flat-square">  
+<img src="https://img.shields.io/david/dev/fernandolopestavares/RocketShoes?style=flat-square">  
 <img src="https://img.shields.io/apm/l/github">
-<img src="https://img.shields.io/github/repo-size/lcspaiva87/Podcastr-NLW-5">
-<img src="https://img.shields.io/github/languages/count/lcspaiva87/Podcastr-NLW-5">
-<img src="https://img.shields.io/github/followers/lcspaiva87?style=social">
-<img src="https://img.shields.io/github/forks/lcspaiva87/Podcastr-NLW-5?style=social">
-<img src="https://img.shields.io/github/package-json/v/lcspaiva87/Podcastr-NLW-5">
-<img src="https://img.shields.io/github/languages/top/lcspaiva87/Podcastr-NLW-5">
+<img src="https://img.shields.io/github/repo-size/fernandolopestavares/Podcastr-NLW-5">
+<img src="https://img.shields.io/github/languages/count/fernandolopestavares/Podcastr-NLW-5">
+<img src="https://img.shields.io/github/followers/fernandolopestavares?style=social">
+<img src="https://img.shields.io/github/forks/fernandolopestavares/Podcastr-NLW-5?style=social">
+<img src="https://img.shields.io/github/package-json/v/fernandolopestavares/Podcastr-NLW-5">
+<img src="https://img.shields.io/github/languages/top/fernandolopestavares/Podcastr-NLW-5">
 </p>
 
 <p align="center">
-<img src="https://github.com/lcspaiva87/Podcastr-NLW-5/blob/main/public/gif_.gif"  width="70%" height="70%">
-<img src="https://github.com/lcspaiva87/Podcastr-NLW-5/blob/main/public/img.png" width="70%" height="70%">  
+<img src="https://github.com/fernandolopestavares/Podcastr-NLW-5/blob/main/public/gif_.gif"  width="70%" height="70%">
+<img src="https://github.com/fernandolopestavares/Podcastr-NLW-5/blob/main/public/img.png" width="70%" height="70%">  
 </p>
 
 
@@ -62,4 +62,4 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-<p align="left">Feito com 💜   Fernando Tavares</p>
+<p align="left">Feito com  💜  Fernando Tavares</p>
