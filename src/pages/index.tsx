@@ -67,7 +67,6 @@ export default function Home({ latesEpisodes, allEpisodes }: HomeProps) {
 
                 <button type="button" onClick={() => playList(episodeList, index)}>
                   <img src="/play-green.svg" alt="Tocar episode" />
-
                 </button>
               </li>
             )
