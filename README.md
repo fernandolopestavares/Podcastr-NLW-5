@@ -19,8 +19,9 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 </p>
 
 <p align="center">
-<img src="https://github.com/fernandolopestavares/Podcastr-NLW-5/blob/main/public/tela-01.gif"  width="70%" height="70%">
-<img src="https://github.com/fernandolopestavares/Podcastr-NLW-5/blob/main/public/img.png" width="70%" height="70%">  
+<img src="https://github.com/fernandolopestavares/Podcastr-NLW-5/blob/main/public/tela-01.gif"  width="50%" height="50%">
+<img src="https://github.com/fernandolopestavares/Podcastr-NLW-5/blob/main/public/tela-02.gif"  width="50%" height="50%">
+<img src="https://github.com/fernandolopestavares/Podcastr-NLW-5/blob/main/public/tela-02-play.gif"  width="50%" height="50%">
 </p>
 
 
